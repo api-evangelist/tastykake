@@ -1,0 +1,57 @@
+aid: tastykake
+name: Tastykake
+description: >-
+  Tastykake is a Philadelphia-area baked snacks brand founded in 1914, known for
+  Kandy Kakes, Krimpets, Juniors, and snack pies. It has been owned by Flowers
+  Foods (NYSE: FLO) since 2011 and operates as a consumer packaged goods brand
+  within the Flowers Foods portfolio alongside Nature's Own, Wonder, and Dave's
+  Killer Bread. No public, developer-facing APIs have been identified for the
+  Tastykake brand; partner, retailer, and distribution integrations are handled
+  through Flowers Foods' internal EDI and account-managed channels rather than
+  a public developer portal.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/tastykake/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+tags:
+  - Bakery
+  - Baked Snacks
+  - Consumer Packaged Goods
+  - Food
+  - Snacks
+apis: []
+common:
+  - type: Website
+    url: https://tastykake.com
+  - type: About
+    url: https://tastykake.com/about
+  - type: Products
+    url: https://tastykake.com/products
+  - type: ProductLocator
+    url: https://tastykake.com/product-locator
+  - type: Recipes
+    url: https://tastykake.com/recipes
+  - type: Contact
+    url: https://tastykake.com/contact
+  - type: Merchandise
+    url: https://tastykake.com/merchandise
+  - type: Facebook
+    url: https://www.facebook.com/Tastykake
+  - type: Instagram
+    url: https://www.instagram.com/tastykake/
+  - type: Twitter
+    url: https://twitter.com/tastykake
+  - type: ParentCompany
+    url: https://www.flowersfoods.com
+  - type: ParentInvestorRelations
+    url: https://investors.flowersfoods.com/
+  - type: ParentBrands
+    url: https://www.flowersfoods.com/brands/
+  - type: Careers
+    url: https://www.flowersfoods.com/careers/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
