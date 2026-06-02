@@ -1,0 +1,8 @@
+---
+title: Valentine's Day Roses
+url: https://www.tastykake.com/blog/valentines-day-roses
+date: '2023-02-04'
+author: FF SquareSpace Admin
+feed_url: https://tastykake.com/blog/rss.xml
+---
+Hugs and kisses are sweet, but these Valentine’s Day Roses are the real treat! Donut worry, this delicious bouquet is easy to make and fun to eat. Celebrate the season of love by creating this recipe with your little valentines! Prep Time: 90 minutes Cook Time: 0 minutes Serves: 12 Ingredients 1 bag of Tastykake Powdered Mini Donuts Red candy melts White frosting Green wooden cake pop sticks Follow these steps: In a bowl, break donuts into small pieces with your hands. Add white frosting to the bowl and stir until the donut mixture is combined. Form the mixture into 12 egg-shaped balls and flatten the tops to create a bell-shaped flower. Place the flowers onto a plate and refrigerate for 20 minutes. Heat red candy melts according to package directions. Remove the flowers from the fridge. Dip one end of a cake pop stick into the melted candy and insert the stick into the rounded bottom of the flower. Then, dip the flower into the melted candy and thoroughly coat it. Place the cake pop sticks into a block of styrofoam to keep them upright and put them in the refrigerator for 20 minutes. Once the coating is dry, remove from the fridge. Put the remainder of the melted red candy into a piping bag. On the flattened top of the flower pipe a swirl to create the center of the rose. Then, to create rose petals along the side of the flowers, start at the base of the flower and pipe curved lines in the shape of an upside-down letter “U”. Enjoy your special treat with your valentine! View More Recipes Permalink

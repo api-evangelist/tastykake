@@ -1,0 +1,8 @@
+---
+title: Melted Snowmen Kandy Kakes
+url: https://www.tastykake.com/blog/melted-snowmen-kandy-kakes
+date: '2023-11-28'
+author: FF SquareSpace Admin
+feed_url: https://tastykake.com/blog/rss.xml
+---
+These adorable Melted Snowmen Kandy Kakes are melt-in-your-mouth delicious! This recipe combines our classic Peanut Butter Kandy Kakes and rich royal icing topped with a soft marshmallow. Make snowmen with the family while staying toasty inside! Prep Time: 40 minutes Cook Time: 0 minutes Serves: 12 Ingredients 1 box Tastykake Kandy Kakes 1 bag large marshmallows Orange mini candy coated chocolates Black round sprinkles White sanding sugar Multicolored round sprinkles 1 bag pretzel sticks Royal Icing 1 cup powdered sugar 4 tbsp milk Follow these steps: Use scissors to cut the bottom of 12 marshmallows at a slight angle. Make slits on the tall side of marshmallow with a sharp knife to mark where the eyes and nose will go. In a dish, combine powdered sugar and milk to make the royal icing. Pour the icing over the middle of each Kandy Kake. Be sure to leave the sides uncovered. Add a dab of icing onto the slanted bottom of the marshmallows to stick them to top of each Kandy Kake. Sprinkle sanding sugar over the icing. Add 3 colored round sprinkles in a row on top of the icing to create the snowman’s buttons. Attach the eyes and nose to the marshmallow by using a small amount of icing and pressing them into the slits on the marshmallow. Break 12 pretzel sticks in half and insert each one into either side of the marshmallow heads. Enjoy your cute, delicious Melted Snowmen Kandy Kakes. View More Recipes Permalink

@@ -1,0 +1,8 @@
+---
+title: Kandy Kreature Trifles
+url: https://www.tastykake.com/blog/kandy-kreature-trifles-4ra37
+date: '2024-10-15'
+author: FF SquareSpace Admin
+feed_url: https://tastykake.com/blog/rss.xml
+---
+Get an eyeful of this spooky Kandy Kreature Trifle! With chocolaty layers of creamy pudding and crumbled Dipp’n Sticks, it doesn’t get any tastier than this. Fill your cup with creepy crawlies and enjoy the taste of Halloween! Prep Time: 30 minutes Cook Time: 0 minutes Serves: 12 Trifle Ingredients 12 Tastykake Dipp’n Sticks 1/2 stick butter, softened 1 cup powdered sugar 8 oz cream cheese, softened 2 (3.4 ox each) packages instant chocolate pudding 3 1/2 cups milk 12 oz whipped topping Gummy worms Kandy Kreature Ingredients 12 Tastykake Kandy Kakes 1 bag candy melts Candy eyes Sprinkles Follow these steps: Use your hands to crumble 12 Tastykake Dipp’n Sticks in a bowl. In a separate bowl, mix butter, powdered sugar, and cream cheese until smooth and set aside. In a third and final bowl, mix dry pudding mix and milk together. Fold in whipped topping. Combine cream cheese mixture into pudding mixture. Mix together. In mini trifle dishes, layer: crumbled Tastykake Dipp’n Sticks, gummy worms, pudding mixture, crumbled Tastykake Dipp’n Sticks, gummy worm, pudding mixture. Garnish the top with crumbled Tastykake Dipp’n Sticks and additional gummy worms. Heat candy melts in the microwave according to package directions. Pour candy melts over Kandy Kakes and shake off the excess. Decorate your Kandy Kreature with candy eyes and sprinkles to your liking. Place the decorated Kandy Kake into the center of the trifle. Enjoy these scary good Halloween Kandy Kreature Trifles with family and friends! View More Recipes Permalink
