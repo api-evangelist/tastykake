@@ -24,6 +24,8 @@ tags:
   - Snacks
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/tastykake-domain-security.yml
   - type: Website
     url: https://tastykake.com
   - type: About
